@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "N4HIP+cTVmAQJO724aUADW+SByxhQCOu9c/dt9jrduM=",
+  "Source": "ASP.NetCoreWebApi",
+  "BasePath": "_content/ASP.NetCoreWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
