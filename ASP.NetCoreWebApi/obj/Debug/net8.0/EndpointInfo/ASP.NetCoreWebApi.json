@@ -194,10 +194,16 @@
         "required": [
           "password",
           "userLevel",
-          "username"
+          "username",
+          "userNumber"
         ],
         "type": "object",
         "properties": {
+          "userNumber": {
+            "minLength": 1,
+            "type": "string",
+            "default": ""
+          },
           "username": {
             "minLength": 1,
             "type": "string",
@@ -215,6 +221,16 @@
             "minLength": 1,
             "type": "string",
             "default": ""
+          },
+          "status": {
+            "type": "boolean"
+          },
+          "isSessionActive": {
+            "type": "boolean"
+          },
+          "recordDate": {
+            "type": "string",
+            "format": "date-time"
           }
         },
         "additionalProperties": false

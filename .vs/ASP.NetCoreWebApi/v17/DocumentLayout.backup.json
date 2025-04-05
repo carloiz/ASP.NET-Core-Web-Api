@@ -3,64 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\common\\iservice\\crudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\common\\iservice\\crudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\common\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\common\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\common\\iservice\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\common\\iservice\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\src\\users\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\src\\users\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\common\\iservice\\ireadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\common\\iservice\\ireadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\common\\iservice\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\common\\iservice\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\common\\iservice\\iwriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\common\\iservice\\iwriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\common\\iservice\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\common\\iservice\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\efcore\\ef_datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\efcore\\ef_datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\src\\users\\usersentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\src\\users\\usersentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\src\\users\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\src\\users\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\common\\iservice\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\common\\iservice\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\common\\iservice\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\common\\iservice\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\common\\iservice\\iwriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\common\\iservice\\iwriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\src\\users\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\src\\users\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\common\\iservice\\crudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\common\\iservice\\crudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\common\\iservice\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\common\\iservice\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\common\\iservice\\ireadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\common\\iservice\\ireadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\common\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\common\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\common\\middlewares\\exceptionhandlermiddlewares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\common\\middlewares\\exceptionhandlermiddlewares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|c:\\users\\loiz\\desktop\\asp.netcorewebapi\\asp.netcorewebapi\\src\\users\\usersentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BF57D0D-5068-4353-8051-FB7E0B281A74}|ASP.NetCoreWebApi\\ASP.NetCoreWebApi.csproj|solutionrelative:asp.netcorewebapi\\src\\users\\usersentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,98 +70,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CrudService.cs",
-              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\IService\\CrudService.cs",
-              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\common\\IService\\CrudService.cs",
-              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\IService\\CrudService.cs",
-              "RelativeToolTip": "ASP.NetCoreWebApi\\common\\IService\\CrudService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T11:22:15.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\Program.cs",
-              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\Program.cs",
-              "RelativeToolTip": "ASP.NetCoreWebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Title": "UsersDto.cs",
+              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\src\\Users\\UsersDto.cs",
+              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\src\\Users\\UsersDto.cs",
+              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\src\\Users\\UsersDto.cs",
+              "RelativeToolTip": "ASP.NetCoreWebApi\\src\\Users\\UsersDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T11:08:50.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IReadService.cs",
-              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\IService\\IReadService.cs",
-              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\common\\IService\\IReadService.cs",
-              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\IService\\IReadService.cs",
-              "RelativeToolTip": "ASP.NetCoreWebApi\\common\\IService\\IReadService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T11:46:38.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICrudService.cs",
-              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\IService\\ICrudService.cs",
-              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\common\\IService\\ICrudService.cs",
-              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\IService\\ICrudService.cs",
-              "RelativeToolTip": "ASP.NetCoreWebApi\\common\\IService\\ICrudService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T11:31:19.311Z",
+              "WhenOpened": "2025-04-05T00:02:44.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Automapper.cs",
-              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\Automapper.cs",
-              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\common\\Automapper.cs",
-              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\Automapper.cs",
-              "RelativeToolTip": "ASP.NetCoreWebApi\\common\\Automapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T11:26:59.72Z",
-              "EditorCaption": ""
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ASP.NetCoreWebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T10:42:42.69Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "SpecificationEvaluator.cs",
-              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\IService\\SpecificationEvaluator.cs",
-              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\common\\IService\\SpecificationEvaluator.cs",
-              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\IService\\SpecificationEvaluator.cs",
-              "RelativeToolTip": "ASP.NetCoreWebApi\\common\\IService\\SpecificationEvaluator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\IService\\ISpecification.cs",
+              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\common\\IService\\ISpecification.cs",
+              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\IService\\ISpecification.cs",
+              "RelativeToolTip": "ASP.NetCoreWebApi\\common\\IService\\ISpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T11:31:02.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T11:30:44.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\src\\Users\\UsersController.cs",
-              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\src\\Users\\UsersController.cs",
-              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\src\\Users\\UsersController.cs",
-              "RelativeToolTip": "ASP.NetCoreWebApi\\src\\Users\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\Program.cs",
+              "RelativeToolTip": "ASP.NetCoreWebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T11:55:08.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T11:08:50.975Z"
             },
             {
               "$type": "Document",
@@ -173,38 +131,120 @@
               "RelativeToolTip": "ASP.NetCoreWebApi\\common\\IService\\IWriteService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T11:46:46.323Z",
+              "WhenOpened": "2025-03-30T11:46:46.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpecificationEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\IService\\SpecificationEvaluator.cs",
+              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\common\\IService\\SpecificationEvaluator.cs",
+              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\IService\\SpecificationEvaluator.cs",
+              "RelativeToolTip": "ASP.NetCoreWebApi\\common\\IService\\SpecificationEvaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:31:02.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\appsettings.json",
+              "RelativeToolTip": "ASP.NetCoreWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T10:26:35.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "ASP.NetCoreWebApi\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T10:09:46.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "UsersDto.cs",
-              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\src\\Users\\UsersDto.cs",
-              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\src\\Users\\UsersDto.cs",
-              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\src\\Users\\UsersDto.cs",
-              "RelativeToolTip": "ASP.NetCoreWebApi\\src\\Users\\UsersDto.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAIwG4AAAAAAAAAAAAAAA==",
+              "Title": "IReadService.cs",
+              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\IService\\IReadService.cs",
+              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\common\\IService\\IReadService.cs",
+              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\IService\\IReadService.cs",
+              "RelativeToolTip": "ASP.NetCoreWebApi\\common\\IService\\IReadService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T09:58:50.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ISpecification.cs",
-              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\IService\\ISpecification.cs",
-              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\common\\IService\\ISpecification.cs",
-              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\IService\\ISpecification.cs",
-              "RelativeToolTip": "ASP.NetCoreWebApi\\common\\IService\\ISpecification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T11:30:44.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T11:46:38.516Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "ICrudService.cs",
+              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\IService\\ICrudService.cs",
+              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\common\\IService\\ICrudService.cs",
+              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\IService\\ICrudService.cs",
+              "RelativeToolTip": "ASP.NetCoreWebApi\\common\\IService\\ICrudService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:31:19.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\src\\Users\\UsersController.cs",
+              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\src\\Users\\UsersController.cs",
+              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\src\\Users\\UsersController.cs",
+              "RelativeToolTip": "ASP.NetCoreWebApi\\src\\Users\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:55:08.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CrudService.cs",
+              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\IService\\CrudService.cs",
+              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\common\\IService\\CrudService.cs",
+              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\IService\\CrudService.cs",
+              "RelativeToolTip": "ASP.NetCoreWebApi\\common\\IService\\CrudService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:22:15.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Automapper.cs",
+              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\Automapper.cs",
+              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\common\\Automapper.cs",
+              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\Automapper.cs",
+              "RelativeToolTip": "ASP.NetCoreWebApi\\common\\Automapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:26:59.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExceptionHandlerMiddlewares.cs",
+              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\Middlewares\\ExceptionHandlerMiddlewares.cs",
+              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\common\\Middlewares\\ExceptionHandlerMiddlewares.cs",
+              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\Middlewares\\ExceptionHandlerMiddlewares.cs",
+              "RelativeToolTip": "ASP.NetCoreWebApi\\common\\Middlewares\\ExceptionHandlerMiddlewares.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:16:58.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "UsersEntity.cs",
               "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\src\\Users\\UsersEntity.cs",
               "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\src\\Users\\UsersEntity.cs",
@@ -212,60 +252,7 @@
               "RelativeToolTip": "ASP.NetCoreWebApi\\src\\Users\\UsersEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T09:59:36.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EF_DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\EFCore\\EF_DataContext.cs",
-              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\EFCore\\EF_DataContext.cs",
-              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\EFCore\\EF_DataContext.cs",
-              "RelativeToolTip": "ASP.NetCoreWebApi\\EFCore\\EF_DataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T11:24:17.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ASP.NetCoreWebApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-29T10:26:22.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\appsettings.json",
-              "RelativeToolTip": "ASP.NetCoreWebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-29T10:26:35.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ExceptionHandlerMiddlewares.cs",
-              "DocumentMoniker": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\Middlewares\\ExceptionHandlerMiddlewares.cs",
-              "RelativeDocumentMoniker": "ASP.NetCoreWebApi\\common\\Middlewares\\ExceptionHandlerMiddlewares.cs",
-              "ToolTip": "C:\\Users\\loiz\\Desktop\\ASP.NetCoreWebApi\\ASP.NetCoreWebApi\\common\\Middlewares\\ExceptionHandlerMiddlewares.cs",
-              "RelativeToolTip": "ASP.NetCoreWebApi\\common\\Middlewares\\ExceptionHandlerMiddlewares.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T10:16:58.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T09:59:36.97Z"
             }
           ]
         }

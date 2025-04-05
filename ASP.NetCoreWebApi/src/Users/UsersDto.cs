@@ -15,6 +15,9 @@ namespace ASP.NetCoreWebApi.src.Users
 
     public class CreateUserDto
     {
+        [Required(ErrorMessage = "Usernumber is required.")]
+        [DefaultValue("")]
+        public string UserNumber { get; set; } = string.Empty;
 
         [Required(ErrorMessage = "Username is required.")]
         [DefaultValue("")]
@@ -31,6 +34,9 @@ namespace ASP.NetCoreWebApi.src.Users
         [Required(ErrorMessage = "UserLevel is required.")]
         [DefaultValue("")]
         public string UserLevel { get; set; } = string.Empty;
+        public bool Status { get; set; }
+        public bool IsSessionActive { get; set; }
+        public DateTime RecordDate { get; set; }
 
     }
 

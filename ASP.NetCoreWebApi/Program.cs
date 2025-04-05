@@ -1,6 +1,8 @@
 using ASP.NetCoreWebApi.common;
 using ASP.NetCoreWebApi.common.IService;
+using ASP.NetCoreWebApi.common.Middlewares;
 using ASP.NetCoreWebApi.EFCore;
+using ASP.NetCoreWebApi.Extensions;
 using ASP.NetCoreWebApi.src.Users;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.DataProtection;
@@ -11,8 +13,9 @@ using Microsoft.OpenApi.Models;
 using Microsoft.Win32;
 using System.Text;
 
-var builder = WebApplication.CreateBuilder(args);
+string connectionString = "MicrosoftSQLSConnection";
 
+var builder = WebApplication.CreateBuilder(args);
 
 
 builder.Services.AddDataProtection()
@@ -32,23 +35,16 @@ builder.Services.AddHttpContextAccessor()
 
 builder.Services.AddControllersWithViews();
 
-//// Register services
-//builder.Services
-//                .AddScoped<RegistryKeys>()
-//                .AddScoped<IUsers, UsersService>()
-//                .AddScoped<UsersService>()
-//                ;
 
 // Configure Database
 builder.Services.AddDbContext<EF_DataContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("MicrosoftSQLSConnection")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString(connectionString)));
 
 builder.Services.AddAutoMapper(typeof(MappingProfile));
 
-builder.Services.AddScoped<
-    ICrudService<UsersEntity, string, UsersDto, CreateUserDto, UpdateUserDto>,
-    CrudService<UsersEntity, string, UsersDto, CreateUserDto, UpdateUserDto>>();
 
+// Ilagay ito pagkatapos ng `builder.Services` configs
+builder.Services.AddCustomServices();
 
 
 // Configure Authentication and Authorization
@@ -105,6 +101,15 @@ builder.Services.AddSwaggerGen(options =>
 });
 
 
+// Add CORS service
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowBlazorClient",
+        policy => policy.WithOrigins("http://localhost:5112")
+                        .AllowAnyHeader()
+                        .AllowAnyMethod());
+});
+
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
@@ -116,7 +121,10 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-//app.UseMiddleware<ExceptionHandlerMiddlewares>(); // Exception Handler
+// Enable CORS middleware
+app.UseCors("AllowBlazorClient");
+
+app.UseMiddleware<ExceptionHandlerMiddlewares>(); // Exception Handler
 
 app.UseHttpsRedirection();
 app.UseSession();

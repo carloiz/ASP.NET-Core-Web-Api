@@ -179,3 +179,4 @@ C:\Users\loiz\Desktop\ASP.NetCoreWebApi\ASP.NetCoreWebApi\obj\Debug\net8.0\refin
 C:\Users\loiz\Desktop\ASP.NetCoreWebApi\ASP.NetCoreWebApi\obj\Debug\net8.0\ASP.NetCoreWebApi.pdb
 C:\Users\loiz\Desktop\ASP.NetCoreWebApi\ASP.NetCoreWebApi\obj\Debug\net8.0\ASP.NetCoreWebApi.genruntimeconfig.cache
 C:\Users\loiz\Desktop\ASP.NetCoreWebApi\ASP.NetCoreWebApi\obj\Debug\net8.0\ref\ASP.NetCoreWebApi.dll
+C:\Users\loiz\Desktop\ASP.NetCoreWebApi\ASP.NetCoreWebApi\obj\Debug\net8.0\ASP.NetCoreWebApi.sourcelink.json
